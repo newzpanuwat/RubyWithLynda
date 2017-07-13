@@ -2,8 +2,15 @@
 
 ## Back to fundamentals and basic with ruby
 
-This repo , I'll learning something i've learned from Lynda abot Ruby language
+This repo , I'll write something I've learned from Lynda about Ruby language
 
 * Objects
 * Variables
 * Integers
+* Float
+* String
+* Arrays
+* Hashes
+* Symbols
+* Booleans
+
