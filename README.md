@@ -4,6 +4,10 @@
 
 This repo , I'll write something I've learned from Lynda about Ruby language
 
+
+
+### Ruby object types [13-July-17]
+
 * Objects
 * Variables
 * Integers
@@ -13,4 +17,9 @@ This repo , I'll write something I've learned from Lynda about Ruby language
 * Hashes
 * Symbols
 * Booleans
+* Ranges
+* Constants
+
+
+
 
