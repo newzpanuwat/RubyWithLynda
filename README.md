@@ -1,10 +1,12 @@
 # Hi!!, This is Ruby Practicing with Lynda.com
 
-## Back to Basic of Ruby which Every Ruby on Rails Developers should to know.
+## Back to Basic of Ruby which every Ruby on Rails Developers should to know.
 
 This repository , I'll write something I've learned from Lynda.com about Ruby language,
 So in this lecture (or whatever u want to call) problaby not focus on many details or deep dive about the fundametals, But I'm JUST Focus on core content each topic only.
 
+
+reference : https://www.lynda.com/Ruby-tutorials/
 
 ### Ruby object types
 
