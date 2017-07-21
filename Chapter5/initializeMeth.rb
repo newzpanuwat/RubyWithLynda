@@ -1,5 +1,3 @@
-
-
 class Animal
     attr_accessor :name
     attr_writer :color
